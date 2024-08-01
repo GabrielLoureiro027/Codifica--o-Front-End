@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -34,8 +38,7 @@
               "RelativeToolTip": "style.css",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-30T13:12:26.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T13:12:26.097Z"
             },
             {
               "$type": "Document",
@@ -47,8 +50,7 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-01T11:05:08.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T11:05:08.237Z"
             },
             {
               "$type": "Document",
@@ -58,7 +60,7 @@
               "RelativeDocumentMoniker": "abc.js",
               "ToolTip": "C:\\Reposit\u00F3rio\\Codifica--o-Front-End\\JogoDaVelha\\abc.js",
               "RelativeToolTip": "abc.js",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCMAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-07-30T11:33:45.534Z",
               "EditorCaption": ""
